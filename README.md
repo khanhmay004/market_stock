@@ -6,12 +6,12 @@ My goal is clear: profitable trades with minimized risk. I will built a machine 
 
 Here's the roadmap:
 
-    Data Download: I source GSPC stock prices from Yahoo Finance, setting up my analysis.
+1. **Data Download**: I source GSPC stock prices from Yahoo Finance, setting up my analysis.
 
-    Data Exploration: I dive deep into data, uncovering insights.
+2. **Data Exploration**: I dive deep into data, uncovering insights.
 
-    Data Setup: Armed with historical prices, I prep data to predict future prices, setting the stage for my model.
+3. **Data Setup**: Armed with historical prices, I prep data to predict future prices, setting the stage for my model.
 
-    Machine Learning Testing: I test my model, refining its accuracy.
+4. **Machine Learning Testing**: I test my model, refining its accuracy.
 
-    Model Enhancement: Model fine-tuning, readying it for real-world trading scenarios.
+5. **Model Enhancement**: Model fine-tuning, readying it for real-world trading scenarios.
